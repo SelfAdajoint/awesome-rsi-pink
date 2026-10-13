@@ -396,6 +396,7 @@ These evaluate a fixed agent on useful task distributions. An RSI study must add
 - [AppWorld](https://github.com/StonyBrookNLP/appworld) - Stateful app interactions with programmatic evaluation.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Tool–agent–user interaction in policy-constrained domains.
 - [MCP-Atlas](https://github.com/scaleapi/mcp-atlas) - Tool-use tasks over Model Context Protocol servers.
+- [RoboQuest](https://arxiv.org/abs/2610.10388) - Simulated kitchen mobile-manipulation tasks whose hidden information must be gathered by searching, inspecting, or testing objects. [![Code][code-badge]](https://github.com/declare-lab/RoboQuest "Code")
 
 ### Safety and control evaluations
 
